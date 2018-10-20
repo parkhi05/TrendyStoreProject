@@ -1,3 +1,4 @@
+F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\admin\AdminHome.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\service\impl\CustomerServiceImpl.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\service\ProductService.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\controller\HomeController.java
@@ -19,6 +20,7 @@ F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\model\Custome
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\DAO\CustomerDAO.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\model\Customer.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\service\impl\ProductServiceImpl.java
+F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\admin\AdminProduct.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\model\Product.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\service\CustomerOrderService.java
 F:\Parkhi\ProjectDT\TrendyStore\src\main\java\com\niit\trendystore\controller\RegisterController.java

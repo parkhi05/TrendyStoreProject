@@ -10,8 +10,10 @@ com\niit\trendystore\model\Customer.class
 com\niit\trendystore\model\User.class
 com\niit\trendystore\service\impl\ProductServiceImpl.class
 com\niit\trendystore\DAO\UserDAO.class
+com\niit\trendystore\admin\AdminHome.class
 com\niit\trendystore\DAO\ProductDAO.class
 com\niit\trendystore\model\Product.class
+com\niit\trendystore\admin\AdminProduct.class
 com\niit\trendystore\model\Cart.class
 com\niit\trendystore\DAO\Impl\CustomerOrderDAOImpl.class
 com\niit\trendystore\service\impl\CustomerServiceImpl.class

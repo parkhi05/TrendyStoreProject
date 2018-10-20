@@ -28,7 +28,10 @@ import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
 
 @Controller
+@RequestMapping("/admin")
 public class ProductController {
+
+	 private Path path;
 
 	@Autowired
 	ProductService productService;

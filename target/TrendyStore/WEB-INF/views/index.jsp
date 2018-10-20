@@ -139,19 +139,19 @@ margin-top:10px;
     </div>
 
     <div class="col-sm-3 text-left"> 	
-      <img src="./resources/image/top.jpg" class="rounded" height= "225px" width="225px"alt="Chicago">
+      <img src="./resources/image/top.jpg" class="rounded" height= "225px" width="225px"alt="Top">
     
         
     </div>
 
    <div class="col-sm-3 text-left"> 	
-      <img src="./resources/image/jeans.jpg" class="rounded" height= "225px" width="225px" alt="New York">
+      <img src="./resources/image/jeans.jpg" class="rounded" height= "225px" width="225px" alt="Jeans">
   
     
   </div>
   
   <div class="col-sm-3 text-left"> 	
-      <img src="./resources/images/indian.jpg"height= "225px" width="225px" alt="New York">
+      <img src="./resources/image/saree.jpg"height= "225px" width="225px" alt="Indian">
   </div>
     
   </div> <!--container inner -->
@@ -165,18 +165,18 @@ margin-top:10px;
        <div class="col-md-4"> 
         
 	  
-  <img src="./resources/images/new.jpg" class="img-circle" alt="Cinque Terre" width="200" height="150"> 
+  <img src="./resources/image/new.jpg" class="img-circle" alt="New Arrival" width="200" height="150"> 
   <p align="center-left"><a href="#">New Arrivals</p>
 
    </div>
   
    <div class="col-md-4">     
-  <img src="./resources/images/top10.jpg" class="img-circle" alt="Cinque Terre" width="200" height="150"> 
+  <img src="./resources/image/top10.jpg" class="img-circle" alt="Cinque Terre" width="200" height="150"> 
   <p><a href="# ">Top 10</p>
   </div>
   
    <div class="col-md-4">     
-  <img src="./resources/images/sale.jpg" class="img-circle" alt="Cinque Terre" width="200" height="150"> 
+  <img src="./resources/image/sale.jpg" class="img-circle" alt="Cinque Terre" width="200" height="150"> 
   <p><a href="#">Top Sale</p>
   </div>
   
